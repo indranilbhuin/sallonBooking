@@ -1,0 +1,63 @@
+[
+  {
+    "saloonId": 1,
+    "timeSlots": [
+      { "id": 1, "time": "10:00 AM", "date": "15th Jan", "available": true },
+      { "id": 2, "time": "02:00 PM", "date": "15th Jan", "available": true },
+      { "id": 3, "time": "04:30 PM", "date": "15th Jan", "available": false }
+    ]
+  },
+  {
+    "saloonId": 2,
+    "timeSlots": [
+      { "id": 4, "time": "11:00 AM", "date": "15th Jan", "available": true },
+      { "id": 5, "time": "03:30 PM", "date": "15th Jan", "available": true },
+      { "id": 6, "time": "05:45 PM", "date": "15th Jan", "available": true }
+    ]
+  },
+  {
+    "saloonId": 3,
+    "timeSlots": [
+      { "id": 7, "time": "12:30 PM", "date": "15th Jan", "available": true },
+      { "id": 8, "time": "03:00 PM", "date": "15th Jan", "available": false },
+      { "id": 9, "time": "06:15 PM", "date": "15th Jan", "available": true }
+    ]
+  },
+  {
+    "saloonId": 4,
+    "timeSlots": [
+      { "id": 10, "time": "01:15 PM", "date": "15th Jan", "available": true },
+      { "id": 11, "time": "04:00 PM", "date": "15th Jan", "available": true },
+      { "id": 12, "time": "07:30 PM", "date": "15th Jan", "available": true }
+    ]
+  },
+  {
+    "saloonId": 5,
+    "timeSlots": [
+      {
+        "id": 13,
+        "time": "02:45 PM",
+        "date": "15th Jan",
+        "available": false
+      },
+      { "id": 14, "time": "05:15 PM", "date": "15th Jan", "available": true },
+      { "id": 15, "time": "08:00 PM", "date": "15th Jan", "available": true }
+    ]
+  },
+  {
+    "saloonId": 6,
+    "timeSlots": [
+      { "id": 16, "time": "03:30 PM", "date": "15th Jan", "available": true },
+      { "id": 17, "time": "06:00 PM", "date": "15th Jan", "available": true },
+      { "id": 18, "time": "09:45 PM", "date": "15th Jan", "available": true }
+    ]
+  },
+  {
+    "saloonId": 7,
+    "timeSlots": [
+      { "id": 19, "time": "04:15 PM", "date": "15th Jan", "available": true },
+      { "id": 20, "time": "07:00 PM", "date": "15th Jan", "available": true },
+      { "id": 21, "time": "10:30 PM", "date": "15th Jan", "available": true }
+    ]
+  }
+]

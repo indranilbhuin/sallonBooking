@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Glamour Cuts",
+    "imageurl": "https://imgmediagumlet.lbb.in/media/2022/04/6262532f28b1fa794c116c78_1650610991674.jpg?fm=webp&w=750&h=500&dpr=1",
+    "description": "A trendy salon offering the latest hairstyles and beauty treatments.",
+    "services": "Haircuts, Styling, Coloring"
+  },
+  {
+    "id": 2,
+    "name": "Nail Haven",
+    "imageurl": "https://ylgindia.com/wp-content/uploads/2023/03/Milestones-Slide-1024x936.jpg",
+    "description": "Pamper your nails with our professional manicure and pedicure services.",
+    "services": "Manicure, Pedicure, Nail Art"
+  },
+  {
+    "id": 3,
+    "name": "Zen Spa",
+    "imageurl": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/2/2016/05/b-blunt-in.jpg?fm=webp&w=750&h=500&dpr=1",
+    "description": "Relax and rejuvenate in our serene spa environment with a range of wellness treatments.",
+    "services": "Massage, Facials, Body Treatments"
+  },
+  {
+    "id": 4,
+    "name": "Barber's Den",
+    "imageurl": "https://api.glamstudios.in/static/assets/site/images/salons/310/thumb.jpg",
+    "description": "Traditional and modern barber services for men looking for a fresh cut.",
+    "services": "Haircuts, Beard Trimming, Hot Towel Shave"
+  },
+  {
+    "id": 5,
+    "name": "Modern Styles",
+    "imageurl": "https://warrentricomi.in/wp-content/uploads/2017/01/Warren-Tricomi-Menage-A-Trois-Review-Price-Delhi.jpg",
+    "description": "Experience the latest fashion trends in hairstyling and beauty makeovers.",
+    "services": "Hair Styling, Makeup, Fashion Consultation"
+  },
+  {
+    "id": 6,
+    "name": "Serenity Salon & Spa",
+    "imageurl": "https://warrentricomi.in/wp-content/uploads/2017/01/warren-tricomi.jpg",
+    "description": "Indulge in a world of tranquility with our salon and spa services.",
+    "services": "Haircare, Skincare, Massage"
+  },
+  {
+    "id": 7,
+    "name": "Gentle Touch",
+    "imageurl": "https://scontent.fblr22-2.fna.fbcdn.net/v/t39.30808-6/308501743_467108348767920_5666736261783188746_n.jpg?stp=dst-jpg_p720x720&_nc_cat=105&ccb=1-7&_nc_sid=783fdb&_nc_ohc=B063z0Fs0KUAX-M3o4p&_nc_ht=scontent.fblr22-2.fna&oh=00_AfA0zJMTKV_5nbWgJv4Xeny6gkUwO2QhoNGnPPdpEX3qcw&oe=65A67D25",
+    "description": "Discover a holistic approach to beauty and wellness in our peaceful setting.",
+    "services": "Holistic Treatments, Meditation, Yoga"
+  }
+]
